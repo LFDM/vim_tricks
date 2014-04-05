@@ -1,3 +1,7 @@
+Collection of vim and related stuff, mostly simple, but still good to
+keep them in the back of your head.
+
+
 #### Rename a ruby gem - and therefore namespaces across all files
 
 Renamed llt-diff to llt-review
